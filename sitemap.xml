@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://techsupportstories.netlify.app/</loc>
+  <lastmod>2022-01-27T18:07:50+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://techsupportstories.netlify.app/index.html</loc>
+  <lastmod>2022-01-27T18:07:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://techsupportstories.netlify.app/archives.html</loc>
+  <lastmod>2022-01-27T18:07:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://techsupportstories.netlify.app/hardware/</loc>
+  <lastmod>2022-01-27T18:07:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://techsupportstories.netlify.app/mac/</loc>
+  <lastmod>2022-01-27T18:07:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://techsupportstories.netlify.app/phones/</loc>
+  <lastmod>2022-01-27T18:07:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://techsupportstories.netlify.app/security/</loc>
+  <lastmod>2022-01-27T18:07:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://techsupportstories.netlify.app/windows/</loc>
+  <lastmod>2022-01-27T18:07:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://techsupportstories.netlify.app/uncat/</loc>
+  <lastmod>2022-01-27T18:07:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://techsupportstories.netlify.app/phones/index.html</loc>
+  <lastmod>2022-01-27T18:07:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://techsupportstories.netlify.app/windows/index.html</loc>
+  <lastmod>2022-01-27T18:07:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://techsupportstories.netlify.app/security/index.html</loc>
+  <lastmod>2022-01-27T18:07:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://techsupportstories.netlify.app/hardware/index.html</loc>
+  <lastmod>2022-01-27T18:07:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://techsupportstories.netlify.app/mac/index.html</loc>
+  <lastmod>2022-01-27T18:07:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://techsupportstories.netlify.app/uncat/index.html</loc>
+  <lastmod>2022-01-27T18:07:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
+</urlset>
