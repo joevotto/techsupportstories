@@ -8,78 +8,143 @@
 
 
 <url>
-  <loc>https://techsupportstories.netlify.app/</loc>
-  <lastmod>2022-01-27T18:07:50+00:00</lastmod>
+  <loc>https://techsupportstories.support/</loc>
+  <lastmod>2022-07-27T02:24:10+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
-  <loc>https://techsupportstories.netlify.app/index.html</loc>
-  <lastmod>2022-01-27T18:07:50+00:00</lastmod>
+  <loc>https://techsupportstories.support/index.html</loc>
+  <lastmod>2022-07-27T02:24:10+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://techsupportstories.netlify.app/archives.html</loc>
-  <lastmod>2022-01-27T18:07:50+00:00</lastmod>
+  <loc>https://techsupportstories.support/archives.html</loc>
+  <lastmod>2022-07-27T02:24:10+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://techsupportstories.netlify.app/hardware/</loc>
-  <lastmod>2022-01-27T18:07:50+00:00</lastmod>
+  <loc>https://techsupportstories.support/hardware/</loc>
+  <lastmod>2022-07-27T02:24:10+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://techsupportstories.netlify.app/mac/</loc>
-  <lastmod>2022-01-27T18:07:50+00:00</lastmod>
+  <loc>https://techsupportstories.support/mac/</loc>
+  <lastmod>2022-07-27T02:24:10+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://techsupportstories.netlify.app/phones/</loc>
-  <lastmod>2022-01-27T18:07:50+00:00</lastmod>
+  <loc>https://techsupportstories.support/phones/</loc>
+  <lastmod>2022-07-27T02:24:10+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://techsupportstories.netlify.app/security/</loc>
-  <lastmod>2022-01-27T18:07:50+00:00</lastmod>
+  <loc>https://techsupportstories.support/security/</loc>
+  <lastmod>2022-07-27T02:24:10+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://techsupportstories.netlify.app/windows/</loc>
-  <lastmod>2022-01-27T18:07:50+00:00</lastmod>
+  <loc>https://techsupportstories.support/windows/</loc>
+  <lastmod>2022-07-27T02:24:10+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://techsupportstories.netlify.app/uncat/</loc>
-  <lastmod>2022-01-27T18:07:50+00:00</lastmod>
+  <loc>https://techsupportstories.support/uncat/</loc>
+  <lastmod>2022-07-27T02:24:10+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://techsupportstories.netlify.app/phones/index.html</loc>
-  <lastmod>2022-01-27T18:07:50+00:00</lastmod>
+  <loc>https://techsupportstories.support/aboutme.html</loc>
+  <lastmod>2022-07-27T02:24:10+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://techsupportstories.netlify.app/windows/index.html</loc>
-  <lastmod>2022-01-27T18:07:50+00:00</lastmod>
+  <loc>https://techsupportstories.support/phones/wireless</loc>
+  <lastmod>2022-07-27T02:24:10+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://techsupportstories.support/phones/range</loc>
+  <lastmod>2022-07-27T02:24:10+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://techsupportstories.support/phones/warranty</loc>
+  <lastmod>2022-07-27T02:24:10+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://techsupportstories.support/windows/print</loc>
+  <lastmod>2022-07-27T02:24:10+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://techsupportstories.support/uncat/fiber</loc>
+  <lastmod>2022-07-27T02:24:10+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://techsupportstories.support/hardware/index.html</loc>
+  <lastmod>2022-07-27T02:24:10+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://techsupportstories.netlify.app/security/index.html</loc>
-  <lastmod>2022-01-27T18:07:50+00:00</lastmod>
+  <loc>https://techsupportstories.support/hardware/hd.html</loc>
+  <lastmod>2022-07-27T02:24:10+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://techsupportstories.netlify.app/hardware/index.html</loc>
-  <lastmod>2022-01-27T18:07:50+00:00</lastmod>
+  <loc>https://techsupportstories.support/mac/index.html</loc>
+  <lastmod>2022-07-27T02:24:10+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://techsupportstories.netlify.app/mac/index.html</loc>
-  <lastmod>2022-01-27T18:07:50+00:00</lastmod>
+  <loc>https://techsupportstories.support/phones/index.html</loc>
+  <lastmod>2022-07-27T02:24:10+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://techsupportstories.netlify.app/uncat/index.html</loc>
-  <lastmod>2022-01-27T18:07:50+00:00</lastmod>
+  <loc>https://techsupportstories.support/security/index.html</loc>
+  <lastmod>2022-07-27T02:24:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://techsupportstories.support/phones/range.html</loc>
+  <lastmod>2022-07-27T02:24:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://techsupportstories.support/phones/files.html</loc>
+  <lastmod>2022-07-27T02:24:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://techsupportstories.support/phones/wireless.html</loc>
+  <lastmod>2022-07-27T02:24:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://techsupportstories.support/phones/warranty.html</loc>
+  <lastmod>2022-07-27T02:24:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://techsupportstories.support/security/magic.html</loc>
+  <lastmod>2022-07-27T02:24:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://techsupportstories.support/windows/index.html</loc>
+  <lastmod>2022-07-27T02:24:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://techsupportstories.support/uncat/index.html</loc>
+  <lastmod>2022-07-27T02:24:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://techsupportstories.support/uncat/fiber.html</loc>
+  <lastmod>2022-07-27T02:24:10+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 
