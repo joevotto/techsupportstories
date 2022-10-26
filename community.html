@@ -25,18 +25,18 @@
 
     <!-- CSS
     ================================================== -->
-    <link rel="stylesheet" href="../css/base.css">
-    <link rel="stylesheet" href="../css/main.css">
+    <link rel="stylesheet" href="css/base.css">
+    <link rel="stylesheet" href="css/main.css">
 
     <!-- script
     ================================================== -->
-    <script src="../js/modernizr.js"></script>
-    <script defer src="../js/fontawesome/all.min.js"></script>
+    <script src="js/modernizr.js"></script>
+    <script defer src="js/fontawesome/all.min.js"></script>
     <!-- favicons
     ================================================== -->
     <link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
-    <link rel="icon" type="../image/png" sizes="32x32" href="favicon-32x32.png">
-    <link rel="icon" type="../image/png" sizes="16x16" href="favicon-16x16.png">
+    <link rel="icon" type="/image/png" sizes="32x32" href="favicon-32x32.png">
+    <link rel="icon" type="/image/png" sizes="16x16" href="favicon-16x16.png">
     <link rel="manifest" href="site.webmanifest">
 
 </head>
@@ -72,16 +72,16 @@
            <div class="row">
 
                 <ul class="s-header__nav">
-                    <li><a href="../index.html">Home</a></li>
-                    <li><a href="../archives.html">Archives</a></li>
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="archives.html">Archives</a></li>
                     <li class="has-children"><a href="#0">Categories</a>
                         <ul>
-                            <li><a href="../Hardware/index.html">Hardware</a></li>
-                            <li><a href="../Mac/index.html">Mac</a></li>
-                            <li><a href="../Phones/index.html">Phones</a></li>
-                            <li><a href="../Security/index.html">Security</a></li>
-                            <li><a href="../Windows/index.html">Windows</a></li>
-                            <li><a href="../Uncat/index.html">Uncategorized</a></li>
+                            <li><a href="/Hardware/index.html">Hardware</a></li>
+                            <li><a href="/Mac/index.html">Mac</a></li>
+                            <li><a href="/Phones/index.html">Phones</a></li>
+                            <li><a href="/Security/index.html">Security</a></li>
+                            <li><a href="/Windows/index.html">Windows</a></li>
+                            <li><a href="/Uncat/index.html">Uncategorized</a></li>
                         </ul>
                     </li>
                   
@@ -101,8 +101,56 @@
 
             <div id="main" class="s-content__main large-8 column">
 
-                <p>Here I will post community related content, such as polls, tips/tricks, and ways to interact with me and other people!
+                <p>Here I will post community related content, such as stuff going on with me, tips/tricks, and ways to interact with me and other people!
+                    <br> <br>
+                    <a href="http://tssforum.42web.io/"> Visit my forum! &nbsp; Discuss stories and have friendly debates with other viewers of the site!</a>
                 </p>
+                <h3>Tech Support Tips/Tricks</h3>
+                <p> 
+                    <ul>
+                       
+                        <li>Random Tip 1</li>
+                        <p>Keeping your computer organized and tidy is important. Going through your installed programs
+                       is important to purge programs you no longer use for security as well as storage reasons. This could also boost performance
+                       because it could be running in the background using up precious processing power. 
+                      </p>
+                        <li>Random Tip 2</li>
+                        <p>Security systems often come with motion sensors, which are great to turn lights on or trigger alarms in an
+                            often empty room, but be advised, they can also be triggered by pets, insects, and even by air blowing on it so keep that
+                            in mind when deciding to get one.
+                        </p>
+                        More Coming Soon
+                        <p></p>
+                    </ul>
+                </p>
+
+                <div>
+                    <h2>How am I doing?</h2>
+                
+                    <form id="fs-frm" name="survey-form" accept-charset="utf-8" action="https://formspree.io/f/mknyvqqw" method="post">
+                        <fieldset id="fs-frm-inputs">
+                          <label for="full-name">Full Name</label>
+                          <input type="text" name="name" id="full-name" placeholder="First and Last" required="">
+                          <label for="email-address">Email Address</label>
+                          <input type="email" name="_replyto" id="email-address" placeholder="email@domain.tld" required="">
+                          <fieldset id="fs-frm-selects">
+                            <label for="timely">2. The quality of site content is high in quality.</label>
+                            <select name="quality" id="quality" required="">
+                              <option value="" selected="" disabled="">Choose</option>
+                              <option value="1">Strongly Agree</option>
+                              <option value="3">Agree</option>
+                              <option value="5">Neutral</option>
+                              <option value="7">Disagree</option>
+                              <option value="9">Strongly Disagree</option>
+                            </select>
+                          </fieldset>
+                          <label for="message">Additional Comments</label>
+                          <textarea rows="3" name="message" id="message" placeholder="Aenean lacinia bibendum nulla sed consectetur. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor." required=""></textarea>
+                          <input type="hidden" name="_subject" id="email-subject" value="Survey Responses">
+                        </fieldset>
+                        <input type="submit" value="Send Responses">
+                      </form>
+                </div>
               </div> <!-- end main -->
 
             <div id="sidebar" class="s-content__sidebar large-4 column">
@@ -147,10 +195,10 @@
 
                     <ul class="link-list">
                         <li><a href="tree.html">Tree of Woe</li>
-                        <li><a href="../hardware/index.html">How I saved my friends hard drive</a></li>
-                        <li><a href="files.html">Missing Files</a></li>
-                        <li><a href="../windows/print.html">Not even remotely</a></li>
-                        <li><a href="../security/magic.html">Cameras use magic right?</a></li>
+                        <li><a href="Hardware/index.html">How I saved my friends hard drive</a></li>
+                        <li><a href="Phones/files.html">Missing Files</a></li>
+                        <li><a href="Windows/print.html">Not even remotely</a></li>
+                        <li><a href="Security/magic.html">Cameras use magic right?</a></li>
                         <li><a href="warranty.html">Warranty Scam</a></li>
                     </ul>
                 </div>
@@ -216,7 +264,7 @@
 
    <!-- Java Script
     ================================================== -->
-    <script src="../js/jquery-3.2.1.min.js"></script>
-    <script src="../js/main.js"></script>
+    <script src="js/jquery-3.2.1.min.js"></script>
+    <script src="js/main.js"></script>
 </body>
 </html>
